@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/vivado/github/AXI_FIFO/AXI_FIFO/AXI_FIFO.srcs/sources_1/new/FIFO.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIFO
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/vivado/github/AXI_FIFO/AXI_FIFO/AXI_FIFO.srcs/sim_1/new/sim_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim_tb
